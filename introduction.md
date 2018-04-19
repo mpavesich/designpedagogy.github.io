@@ -3,7 +3,7 @@ layout: default
 title: Introduction
 ---
 
-#Introduction
+<h1>Introduction</h1>
 
 In After Pedagogy (2013) Paul Lynch asks, “Is teaching still impossible?”—a question that echoes Geoffrey Sirc’s declaration a year earlier that “teaching writing is impossible” (508). These statements, dramatic as they are, amplify a contemporary quandary facing teachers in writing studies: How has the originary and core imperative of writing studies—teaching—come to seem not just difficult but impossible to some of the most exciting thinkers of that very same discipline? Is teaching truly impossible, how did we get here, and how do we begin to move forward? We want to suggest that examining the relationships among postprocess, postpedagogy, and design can offer some answers.
 
