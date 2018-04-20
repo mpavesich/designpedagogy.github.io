@@ -30,6 +30,7 @@ https://drive.google.com/file/d/0B-Xz5YEzHzWEbktRbENEY3pVbktwaThUcnZGVlpKcmlQVTR
 In the photo above, jurors who are industry experts in architecture and urban planning circulate among student teams. During this critique, we observed jurors leaning in close, tracing lines with their figures, speaking familiarly with students, offering criticisms and possible solutions, and—in one notable instance—taking off a pair of high heels and stepping into a model of a multi-block site in order to kneel down and point out a particular change that would enable smoother flow of delivery traffic.
 
 Jurors also bring interdisciplinary perspectives that necessarily extend and complicate the student team’s knowledge base, as Joanna explains in this interview clip. 
+
 https://drive.google.com/file/d/0B-Xz5YEzHzWEb1BFdFpzWFVQd1E/view (41)
 
 In this sense, jurors serve as unofficial team members. Further, they sometimes have multiple points of interaction, since the same jury will often make more than one appearance in a semester. 
