@@ -1,0 +1,29 @@
+{% for record in site.data.media %}
+{% if include.index == record.id %}
+<figure class="{{ record.type }}">
+    {% assign filename = record.name | remove: '/' | replace: ':','_' | replace: ' ','_' %}    
+    {% if record.type == 'Image' %}
+    <img src="{{ site.baseurl }}/assets/{{ filename }}_small.jpg" alt="">
+    {% endif %}
+    {% if record.type == 'Audio' %}
+    <audio controls src="{{ site.baseurl }}/assets/{{ filename }}.wav"></audio>
+    {% endif %}
+    {% if record.type == 'Text' %}
+    <object data="{{ site.baseurl }}/assets/{{ filename }}.pdf" type="application/pdf" width="100%" height="700px"></object>
+    <a href="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.pdf">{{ include.caption }}</a>
+    {% endif %}
+
+    <figcaption>
+    {% if record.caption %}
+        <p>{{ record.caption }}</p>
+    {% endif %}
+    {% if record.alternative_text %}
+        <div class="alternative_text">
+        <p>{{ record.alternative_text }}</p>
+        </div>
+    {% endif %}
+    </figcaption>
+</figure>
+
+{% endif %}
+{% endfor %}

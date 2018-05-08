@@ -31,18 +31,24 @@ At every studio we visited, there were strategically designed, complex learning 
 
 [embed frames-for-work images just like they were in the original]
 
-https://drive.google.com/file/d/0B-Xz5YEzHzWEVUlEQ3c5V3BfNlZOZ0FEWkxXS2t1TVdyRU13/view?usp=sharing (1)
+{% include figure.html index="1" %}
+
 Students work on LEED certification of campus buildings with facilities staff.
 A stylized watercolor of a drafting table hovers over campus buildings, including a stadium, academic buildings, and a dormitory.
 
-https://drive.google.com/file/d/0B-Xz5YEzHzWELXRfLVZ2cV9QZXc0VC1CTGdTQ1JMOXF2NFBr/view (2)
+
+{% include figure.html index="2" %}
+
 Clients from industry commission objects from class. An stylized watercolor of a drafting table connects a working factory to a prototype schematic
 
-https://drive.google.com/file/d/0B-Xz5YEzHzWEZ2J4MGhvblVWV3o2MWQtSldLZ054bE1pTUxV/view (3)
+
+{% include figure.html index="3" %}
+
 Three courses, wrapped around a studio, aim to intervene in global and domestic issues
 An stylized watercolor of a drafting table, surrounded by the words "Rhetoric," "Science Policy," and "Bioethics," stands in a recursive relationship with a globe.
 
-https://drive.google.com/file/d/0B-Xz5YEzHzWERldjSU85cnJLcUZ1TkdqVXVPM0l5dzZWc01V/view (4)
+{% include figure.html index="4" %}
+
 Embedded in neighborhoods, students create new plans for multi-block sites.
 An stylized watercolor of a drafting table, surrounded by the outline of the District of Columbia, illustrated versions of the words "Architecture" and "Urban Planning."
 
@@ -51,14 +57,11 @@ The environments represented in the sketches we include above all share certain 
 
 Before, during, and after our visits to these sites, we made a conscious decision to adopt the spirit of design approaches by embracing uncertainty, trial and error, and experimentation in our research methods. In fact, we ended up internalizing the practices we witnessed in the classrooms we observed. For example, we drafted many preliminary sketches to try to visualize possible variations of our project’s form and structure—to imagine and reimagine how our research might be represented. 
 
-[embed images or use icons?]
+{% include figure.html index="80" %}
 
-https://drive.google.com/file/d/0BwBBuU_uLSSKdS1ocWQ0dUFTamc/view?usp=sharing (80)
+{% include figure.html index="81" %}
 
-https://drive.google.com/file/d/0BwBBuU_uLSSKUDZZMFdEUmFBY0E/view?usp=sharing (81)
-
-https://drive.google.com/file/d/0B-Xz5YEzHzWEc0Rpc0FPcmNWX0E/view?usp=sharing (82)
-
+{% include figure.html index="82" %}
 
 These drawing sessions enabled us to envision our project as a material thing with various, complex working parts; they provided an opportunity to explore a multitude of possibilities—often with other people—before deciding on a cohesive concept for our project. Additionally, we relied on DIY methods like iPhone photography and rough audio recordings to capture sights and sounds from the scenes of learning in which we were immersed. 
 
