@@ -35,7 +35,6 @@ In the spring semester of 2016, [author’s name] and a team of others at George
 ## Frames-for-Work
 At every studio we visited, there were strategically designed, complex learning environments, or what we are calling “frames-for-work.” Instead of prescribing what and how students learn, studio faculty assembled constellations of “tools, raw materials, spaces, media, and people” and set students loose (Sheridan “A Maker Mentality”). Similarly, Byron Hawk has written of the need to “build smarter environments in which . . . students work. . . . [We must create] constellations of architectures, technologies, texts, bodies, histories, heuristics, enactments, and desires that produce the conditions of possibility for emergence, for invention (249). These frames-for-work enable invention, which involves connecting students with knowledge, material, and spaces that can facilitate their thinking and making practices. 
 
-[embed frames-for-work images just like they were in the original]
 
 {% include figure.html index="1" %}
 
