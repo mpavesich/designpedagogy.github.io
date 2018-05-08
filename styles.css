@@ -29,8 +29,10 @@ html {
 
 body {
   font-weight: 300;
-  color: rgba(0,0,0,.825);
+  color: rgba(0,0,0,.925);
   position:relative;
+  background-color: #f0f0f0;
+  background-color: rgba(255,255,255,.925);
 }
 
 img {
@@ -45,17 +47,14 @@ figure {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: 300;
 }
 
 h2,
 h3 {
   margin-bottom:0;
-}
-
-h3 {
-  font-size: 1rem;
+  font-size: 1.25rem;
 }
 
 h2 + p,
@@ -107,6 +106,7 @@ header {
 header h1 {
   font-size: 1rem;
   margin:0;
+  font-weight:600;
 }
 
 header a,
@@ -117,11 +117,6 @@ header a:link {
 }
 
 #global-navigation {
-  font-size: .8rem;
-  padding: 1rem 0 2rem;
-  background-color: hsla(210,70%, 7%,.875);
-  color: #ccc;
-  color: rgba(255,255,255,.325);
 
 }
 
@@ -131,46 +126,30 @@ header a:link {
 
 #global-navigation  a:link,
 #global-navigation  a:visited {
-  color: white;
-  color: rgba(255,255,255,.9);
+  color: rgba(190,230,230,.75);
 }
 
 #global-navigation  a:hover,
 #global-navigation  a:focus {
-  color: white;
-  color: rgba(255,255,255,.9);
 }
 
 #global-navigation  a:active {
-  color: white;
-  color: rgba(255,255,255,.9);
 }
 
-#global-navigation span:before,
-#global-navigation span:after {
-  content: " | ";
-  padding: 0 .5rem;
+header {
+  padding: 2rem;
+}
+  
+main {
+  padding: 0 2rem 2rem;
 }
 
-#global-navigation span a + a:before {
-  content: " · ";
-  padding: 0 .125rem;
-  color: #ccc;
-  color: rgba(255,255,255,.325);
+main > h1 {
+    margin: 0 -2rem 2rem;
+    padding: 2rem;
+    background: rgba(190,230,230,.75);
+    border-bottom: 2px solid rgba(0,0,0,.125);
 }
-
-#main {
-  padding: 30px;
-  background: white;
-  background: rgba(255,255,255,.95);
-}
-
-#banner,
-#global-navigation {
-  padding-left: 30px;
-  padding-right: 30px;
-}
-
 .locations {
   display:flex;
   flex-wrap: wrap;
@@ -217,80 +196,10 @@ footer {
   width: 1px;
 }
 
-.gallery, .gallery-list {
-  list-style:none;
-  margin:0;
-  padding:0;
-  display:flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  justify-content: space-around;
-}
-
-.gallery-list {
-  display:block;
-}
-
-.gallery #featured {
-  display:block;
-  margin-bottom: 3rem;
-}
-
-.frames-for-work #facet-media {
-  float:none;
-  width: 100%;
-}
-
-.frames-for-work .gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.frames-for-work .gallery:after {
-  content: ' ';
-  width: 100px;
-  height: 3px;
-  margin: 5rem auto 5rem;
-  background: rgba(0,0,0,0.25);
-}
-
-.gallery .content,
-.gallery-list .content,
-.media-list .content {
-  display:none;
-}
-
-
-.frames-for-work .gallery .content {
-  display:block;
-  width: 49%;
-  margin-bottom: 1rem;
-}
-
-.fa {
-  display:inline-block;
-  color: white;
-  color: hsla(0,100%,100%,.9);
-  background: hsla(0,0%,0%,.75);
-  border-radius: 50%;
-  font-size: 2rem;
-  width: 4rem;
-  height: 4rem;
-  line-height: 2;
-  text-align: center;
-}
-
-.frames-for-work .fa,
-.vex .fa {
-  display:none;
-}
-
 #works-cited p {
   margin-left: 2rem;
   text-indent: -2rem;
 }
-
 
 .vex.vex-theme-os .vex-content {
   width: 700px;
@@ -343,14 +252,13 @@ footer {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background: transparent;
+    display:flex;
   }
-
+  
   .home #global-navigation {
     position:relative;
     height: 70vh;
     min-height: 600px;
-    background: transparent;
   }
 
   .home #global-navigation a {
@@ -418,37 +326,31 @@ footer {
     right: 10rem;
   }
 
+  header {
+      width: 30%;
+  }
+  nav {
+      margin-top: 4rem;
+  }
+  
+  nav a {
+      display:block;
+  }
+  nav span {
+      display:block;
+      border: 1px solid white;
+      border-color: rgba(255,255,255,.5);
+      border-width: 2px 0;
+      margin: 1rem 0;
+      padding: 1rem 0;
+  }
+  
   main {
-    overflow:hidden;
-    zoom: 1;
+      width: 70%;
   }
   
-  .introduction main,
-  .conclusions main {
-    padding-right: 40% !important;
-  }
+  
+}
 
-  main > .content,
-  main > .summary {
-    float:left;
-    width: 60%;
-  }
-
-  main > .content p:first-child {
-    margin-top:0;
-  }
-  
-  .frames-for-work main > .content {
-    float:none;
-    width: 100%;
-    -moz-column-count: 2;
-    -webkit-column-count: 2;
-    column-count: 2;
-  }
-  
-  .gallery,#facet-media {
-    float:right;
-    width: 38%;
-  }
-  
+@media screen and (min-width: 700px) and (min-height: 600px) {
 }

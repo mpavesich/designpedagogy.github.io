@@ -11,12 +11,11 @@
 <script>vex.defaultOptions.className = 'vex-theme-os'</script>
 <link rel="stylesheet" href="{{ site.baseurl }}/vex/css/vex.css" />
 <link rel="stylesheet" href="{{ site.baseurl }}/vex/css/vex-theme-os.css" />
-<link href="https://fonts.googleapis.com/css?family=Coming+Soon|Open+Sans:300,400,800" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Coming+Soon|Open+Sans:300,400,600,800" rel="stylesheet">
 <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
 <a href="#main" class="audible">Skip to main content</a>
 <header role="banner" id="banner">
-  <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-</header>
+    <h1><a href="{{ site.baseurl }}/"><span class="title">{{ site.title }}</span>: <span class="subtitle">{{ site.subtitle }}</span></a></h1>
 <nav id="global-navigation">
   <a id="link-intro" href="{{ site.baseurl }}/introduction/">Introduction</a>
   <span>
@@ -28,10 +27,11 @@
   </span>
   <a id="link-conclusions" href="{{ site.baseurl }}/conclusions/">Conclusions</a>
   <a id="link-works-cited" href="{{ site.baseurl }}/works-cited">Works Cited</a> ·
-  
 </nav>
+</header>
 
 <main role="main" id="main">
 {{ content }}
 </main>
+
 </html>
