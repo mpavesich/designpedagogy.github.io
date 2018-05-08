@@ -116,8 +116,7 @@ header a:link {
   color: rgba(255,255,255,.9);
 }
 
-#global-navigation,
-#courtesy-navigation{
+#global-navigation {
   font-size: .8rem;
   padding: 1rem 0 2rem;
   background-color: hsla(210,70%, 7%,.875);
@@ -126,29 +125,23 @@ header a:link {
 
 }
 
-#global-navigation  a,
-#courtesy-navigation a {
+#global-navigation  a {
   text-decoration:none;
 }
 
 #global-navigation  a:link,
-#global-navigation  a:visited,
-#courtesy-navigation a:link,
-#courtesy-navigation a:visited {
+#global-navigation  a:visited {
   color: white;
   color: rgba(255,255,255,.9);
 }
 
 #global-navigation  a:hover,
-#global-navigation  a:focus,
-#courtesy-navigation a:hover,
-#courtesy-navigation a:focus {
+#global-navigation  a:focus {
   color: white;
   color: rgba(255,255,255,.9);
 }
 
-#global-navigation  a:active,
-#courtesy-navigation a:active {
+#global-navigation  a:active {
   color: white;
   color: rgba(255,255,255,.9);
 }
@@ -164,14 +157,6 @@ header a:link {
   padding: 0 .125rem;
   color: #ccc;
   color: rgba(255,255,255,.325);
-}
-
-#courtesy-navigation {
-  position:absolute;
-  font-size: .7rem;
-  top:0;
-  right:30px;
-  background-color: transparent;
 }
 
 #main {
