@@ -1,3 +1,18 @@
 title: "Learning as Coordination"
 subtitle: "Postpedagogy and Design"
 permalink: pretty
+
+creators:
+  - last-name: Ceraso
+    first-name: Steph
+    institution: University of Virginia
+    role: author
+  - last-name: Pavesich
+    first-name: Matthew
+    institution: Georgetown University
+    role: author
+  - last-name: Boggs
+    first-name: Jeremy
+    institution: University of Virginia
+    role: developer
+
