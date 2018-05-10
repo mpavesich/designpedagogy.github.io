@@ -16,7 +16,7 @@ DIY approaches often raise questions about students’ abilities, as novices, to
 
 In the studios we observed, students experienced DIY primarily through experimentation and productive failure. Additionally, students themselves determine to a great degree how they move between these experiences. We want to stress that DIY learning is not only about students conducting conceptual research or fact-finding missions on their own. Rather, it is an embodied practice in which students tinker with materials—in both digital and analog contexts—in order to try out different possibilities for their projects. In other words, as Dhillon puts it, the work of design is not always abstract:
 
-https://drive.google.com/file/d/0BwBBuU_uLSSKczVmTm56UEVVNzA/view (12)
+{% include figure.html index="12" %}
 
 And when an idea or prototype fails during the experimentation process, students learn what does not work in order to get closer to what does work (hence, productive failure). Students often struggle, at least at first, with embracing failure in this way. For instance, Rothman elaborates on his students’ emotional reaction to their failure during the process of creating a prototype: 
 
