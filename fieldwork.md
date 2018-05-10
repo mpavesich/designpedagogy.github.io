@@ -74,11 +74,3 @@ Before, during, and after our visits to these sites, we made a conscious decisio
 These drawing sessions allowed us to envision our project as a material thing with various, complex working parts; they provided an opportunity to explore a multitude of possibilities—often with other people—before deciding on a cohesive concept for our project. Additionally, we relied on DIY methods like iPhone photography and rough audio recordings to capture sights and sounds from the scenes of learning in which we were immersed. 
 
 In the version of our project that we share here, we discuss the most salient design practices (what we are calling the four facets of design-oriented pedagogy) that emerged from our observations—collaboration, high impact encounters, DIY learning, and experiences that underscore the ecological nature of writing and design. Each facet’s page contains a curatorial text, in which we define the keys terms, present artifacts (e.g. images, audio, teaching materials) from our fieldwork, offer general commentary, and make connections between what we observed and relevant research in rhetoric and composition (and elsewhere). As we will show, it is the coordination of these facets that is critical to crafting impactful learning experiences for students. 
-
-
-
-
-
-
-
-

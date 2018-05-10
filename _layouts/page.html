@@ -7,25 +7,3 @@ layout: default
 <div class="content">
   {{ content }}
 </div>
-
-<script>
-function isWhitespace(node) {
-    return node.nodeType == 3 && /^\s*$/.test(node.data);
-}
-
-var items = document.querySelectorAll('#facet-media i');
-
-for (var i=0;i<items.length;i++) {
-  items[i].addEventListener('click', function() {
-    next = this.nextSibling;
-    if (next && isWhitespace(next)) {
-        next = next.nextSibling;
-    }
-    if (next && next.nodeName == "DIV") {
-        contents = next.innerHTML;
-        vex.dialog.alert({content: '',unsafeMessage: contents});
-    }
-  });
-}
-
-</script>
