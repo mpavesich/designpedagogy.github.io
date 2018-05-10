@@ -1,9 +1,9 @@
 {% for record in site.data.media %}
 {% if include.index == record.id %}
-<figure class="{{ record.type }}">
-    {% assign filename = record.name | remove: '/' | replace: ':','_' | replace: ' ','_' %}    
+{% assign filename = record.name | remove: '/' | replace: ':','_' | replace: ' ','_' %}
+<figure id="figure-{{ include.index }}" class="{{ record.type | downcase }}">
     {% if record.type == 'Image' %}
-    <img src="{{ site.baseurl }}/assets/{{ filename }}_small.jpg" alt="">
+    <img src="{{ site.baseurl }}/assets/{{ filename }}.jpg" alt="">
     {% endif %}
     {% if record.type == 'Audio' %}
     <audio controls src="{{ site.baseurl }}/assets/{{ filename }}.wav"></audio>
@@ -13,14 +13,12 @@
     <a href="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.pdf">{{ include.caption }}</a>
     {% endif %}
 
-    <figcaption>
+    <figcaption{% if include.audible == "true" %} class="audible"{% endif %}>
     {% if record.caption %}
-        <p>{{ record.caption }}</p>
+        <span class="caption">{{ record.caption }}</span>
     {% endif %}
     {% if record.alternative_text %}
-        <div class="alternative_text">
-        <p>{{ record.alternative_text }}</p>
-        </div>
+        <span class="alternative_text">{{ record.alternative_text }}</span>
     {% endif %}
     </figcaption>
 </figure>

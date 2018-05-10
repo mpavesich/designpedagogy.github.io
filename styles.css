@@ -254,6 +254,24 @@ footer {
     margin-right: auto;
     display:flex;
   }
+
+  .home {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .home header {
+      width: 100%;
+      display:flex;
+  }
+
+  .home nav span {
+      border:none;
+  }
+
+  .home main {
+      display:none;
+  }
   
   .home #global-navigation {
     position:relative;
@@ -263,7 +281,7 @@ footer {
 
   .home #global-navigation a {
     background-color: blue;
-  background: rgba(140,180,180,.875);
+    background: rgba(140,180,180,.875);
     border-radius: 50%;
     display:flex;
     position:absolute;

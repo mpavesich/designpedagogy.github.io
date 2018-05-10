@@ -35,25 +35,15 @@ In the spring semester of 2016, [author’s name] and a team of others at George
 ## Frames-for-Work
 At every studio we visited, there were strategically designed, complex learning environments, or what we are calling “frames-for-work.” Instead of prescribing what and how students learn, studio faculty assembled constellations of “tools, raw materials, spaces, media, and people” and set students loose (Sheridan “A Maker Mentality”). Similarly, Byron Hawk has written of the need to “build smarter environments in which . . . students work. . . . [We must create] constellations of architectures, technologies, texts, bodies, histories, heuristics, enactments, and desires that produce the conditions of possibility for emergence, for invention (249). These frames-for-work enable invention, which involves connecting students with knowledge, material, and spaces that can facilitate their thinking and making practices. 
 
+<div class="frames-for-work-gallery">
+{% include figure.html index="2" audible="true" %}
 
-{% include figure.html index="1" %}
+{% include figure.html index="3" audible="true" %}
 
-Students work on LEED certification of campus buildings with facilities staff.
-A stylized watercolor of a drafting table hovers over campus buildings, including a stadium, academic buildings, and a dormitory.
+{% include figure.html index="4" audible="true" %}
 
-
-{% include figure.html index="2" %}
-
-Clients from industry commission objects from class. An stylized watercolor of a drafting table connects a working factory to a prototype schematic
-
-
-{% include figure.html index="3" %}
-
-Three courses, wrapped around a studio, aim to intervene in global and domestic issues
-An stylized watercolor of a drafting table, surrounded by the words "Rhetoric," "Science Policy," and "Bioethics," stands in a recursive relationship with a globe.
-
-{% include figure.html index="4" %}
-
+{% include figure.html index="5" audible="true" %}
+</div>
 Embedded in neighborhoods, students create new plans for multi-block sites.
 An stylized watercolor of a drafting table, surrounded by the outline of the District of Columbia, illustrated versions of the words "Architecture" and "Urban Planning."
 
