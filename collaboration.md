@@ -11,7 +11,7 @@ As writing and rhetoric instructors, student-student collaboration was the most 
 
 {% include figure.html index="17" %}
 
-However, this kind of peer work went well beyond a single project or activity. Frequently, teams of students work together on multiple projects throughout the semester. In some cases, student collaborations span across time, continuing from one semester to the next. For example, as Martin, a student from the LEED Lab, explained to us in this interview clip, a student team might continue to work on the same or another student team’s project from a previous semester. The coordination of learning, in this instance, extends across space and time.  
+However, this kind of peer work went well beyond a single project or activity. Frequently, teams of students work together on multiple projects throughout the semester. In some cases, student collaborations continue from one semester to the next. For example, as Martin, a student from the LEED Lab, explained to us in this interview clip, a student team might continue to work on the same or another student team’s project from a previous semester. The coordination of learning, in this instance, extends across space and time.  
 
 {% include figure.html index="47" %}
 
