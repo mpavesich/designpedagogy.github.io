@@ -44,8 +44,7 @@ At every studio we visited, there were strategically designed, complex learning 
 
 {% include figure.html index="5" audible="true" %}
 </div>
-Embedded in neighborhoods, students create new plans for multi-block sites.
-An stylized watercolor of a drafting table, surrounded by the outline of the District of Columbia, illustrated versions of the words "Architecture" and "Urban Planning."
+
 
 [Note: We collaborated with artist Katherine Noland to imagine sketches of the “frames-for-work” for each of our field sites. After discussing the sites and our aesthetic preferences, Noland composed these images that combine sketching with watercolors.]
 
