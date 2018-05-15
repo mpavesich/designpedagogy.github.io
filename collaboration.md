@@ -43,7 +43,7 @@ Without the input about this client’s needs and desires, as well as his physic
 
 We want to acknowledge that these complex forms of collaboration are challenging, and they are sometimes met with resistance. For example, they require a lot of logistics that can be time consuming. Students also might worry about who their partners are and whether or not they will get stuck with an unfair amount of the work. More broadly, as UMBC mechanical engineering professor Neil Rothman stated in our interview, students are not used to the kind of freedom and responsibility associated with “active learning.”
 
-{% include figure.html index="18" %}
+{% include figure.html index="56" %}
 
 One way that Georgetown’s Studio Collaborative responded to student concerns about collaboration was through a peer and self assessment tool. Articulated as part of the overall grading strategy, included in this document as well, students were asked to reflect on their own and their teammates’ contributions to the project.
 
