@@ -5,7 +5,7 @@ tag: DIY
 d3: true
 ---
 
-Self-propelled learning is one of the most crucial aspects of design studio pedagogy. DIY (do-it-yourself) approaches to teaching encourage students to become responsible for their own learning. Arjun Dhillon, then-head of studio for the EthicsLab at Georgetown, describes DIY learning as a “squiggle.” In the drawing and audio field note below, which we recommend you listen to and look at simultaneously, Dhillon provides a sense of design work as requiring self-motivation and resilience—of knowing that you need to put in the work, and imagining the necessary steps as emerging from the end goals rather than proceeding through the stages of a scaffolded assignment.  
+Self-propelled learning is one of the most crucial aspects of design studio pedagogy. DIY (do-it-yourself) approaches to teaching encourage students to become responsible for their own learning. Arjun Dhillon, then-head of studio for the EthicsLab at Georgetown, describes DIY learning as a “squiggle.” In the drawing and audio field note below, Dhillon provides a sense of design work as requiring self-motivation and resilience—of knowing that you need to put in the work, and imagining the necessary steps as emerging from the end goals rather than proceeding through the stages of a scaffolded assignment.  
 
 {% include figure.html index="13" %}
 
