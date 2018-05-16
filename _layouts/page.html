@@ -6,4 +6,22 @@ layout: default
 
 <div class="content">
   {{ content }}
+
+  <nav>
+      {% assign sitenav = site.navigation %}
+      {% for nav in sitenav %}
+      {% if nav == page.title %}
+        {% assign current = forloop.index0 %}
+        {% unless forloop.first %}
+          {% assign previous = current | minus:1 %}
+          <a class="previous" href="{{ site.baseurl }}/{{ sitenav[previous] | slugify }}">{{ sitenav[previous] }}</a>
+        {% endunless %}
+        {% unless forloop.last %}
+          {% assign next = current | plus:1 %}
+          <a class="next" href="{{ site.baseurl }}/{{ sitenav[next] | slugify }}">{{ sitenav[next] }}</a>
+        {% endunless %}
+
+      {% endif %}
+      {% endfor %}
+  </nav>
 </div>
