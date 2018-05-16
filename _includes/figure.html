@@ -14,8 +14,10 @@
     {% endif %}
 
     <figcaption{% if include.audible == "true" %} class="audible"{% endif %}>
+    {% if record.type != 'Audio' %}
     {% if record.caption %}
         <span class="caption">{{ record.caption }}</span>
+    {% endif %}
     {% endif %}
     {% if record.alternative_text %}
         <span class="alternative_text">{{ record.alternative_text }}</span>
