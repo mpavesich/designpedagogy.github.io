@@ -6,7 +6,7 @@
     <img src="{{ site.baseurl }}/assets/{{ filename }}.jpg" alt="">
     {% endif %}
     {% if record.type == 'Audio' %}
-    <audio controls src="{{ site.baseurl }}/assets/{{ filename }}.wav"></audio>
+    <audio controls src="{{ site.baseurl }}/assets/{{ filename }}.wav" preload="none"></audio>
     {% endif %}
     {% if record.type == 'Text' %}
     <object data="{{ site.baseurl }}/assets/{{ filename }}.pdf" type="application/pdf" width="100%" height="700px"></object>
