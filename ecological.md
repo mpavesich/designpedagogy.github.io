@@ -19,7 +19,7 @@ In addition to creating prototypes, design students are often expected to make m
 
 It is important to acknowledge that students do not only make physical prototypes or models; they must also be able to explain their making process in detail, as well as discuss the function and value of the thing they made, as Arjun Dhillon described in our interview:
 
-{% include figure.html index="12" %}
+{% include figure.html index="10" %}
 
 This next image, for instance, shows a student at the Urban Practice Studio translating his model to an audience external to the class (in this case, actual urban designers who work in the D.C. area).
 
