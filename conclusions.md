@@ -3,8 +3,6 @@ layout: page
 title: Conclusions
 ---
 
-# Conclusions
-
 Based on our observations of four studios, we believe that design studio pedagogy represents one productive future of the current postpedagogical moment. We believe so, in part, because design studio approaches speak to a number of recent and pressing concerns in rhetoric and composition—like public engagement, collaborative practices, embodiment, and materiality—and also because they provide a way to describe and enact process as a layered phenomenon.
 
 With cautious optimism, then, we want to conclude by offering some preliminary recommendations and caveats for experimenting with design studio methods. These suggestions are meant to highlight concrete, practical ways of implementing design studio pedagogy in twenty-first century writing and rhetoric curricula. 
