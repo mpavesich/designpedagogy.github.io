@@ -297,17 +297,19 @@ footer {
   
   .home body {
     background-color: transparent;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
   }
   
   .home header {
       width: 90vw;
       background: rgba(0,0,0,.825);
-      margin: 15vh auto;
       display:flex;
       flex-direction: row;
       justify-content: space-between;
       align-items: flex-start;
-      height: 50vh;
+      height: auto;
   }
 
   .home h1,
