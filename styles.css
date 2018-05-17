@@ -19,7 +19,7 @@ body {
 
 html {
   background-color: hsla(200,90%,10%,.9);
-  font: 16px/1.5 "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font: 18px/1.675 "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
 }
 
 body {
@@ -211,6 +211,21 @@ footer {
   padding: 0;
   position: absolute;
   width: 1px;
+}
+
+.reflink {
+    text-decoration:none;
+    color: #333;
+    background: rgba(190,230,230,.95);
+    padding: 2px;
+    line-height: 0;
+    vertical-align:super;
+    font-size: .9rem;
+}
+
+.reflink:hover,
+.reflink:focus {
+    background: rgba(190,230,230,.75);
 }
 
 #works-cited p {
