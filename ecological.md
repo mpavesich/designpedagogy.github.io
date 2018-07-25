@@ -51,7 +51,7 @@ In part, this context is achieved through immersing students in spaces where exp
 
 When we entered these environments, even as observers, we felt inspired and excited. The ways that these studio spaces were designed—innovative architectural features, large open spaces ideal for collaboration and smaller closed off spaces for individuals or small group meetings, displays of current and previous student work, blank walls for students to hang drawings and plans, huge bins of supplies and materials for making—incite the kind of creativity and desire to learn that, in an ideal world, all students should feel in educational settings. 
 
-Moreover, the spaces of the design studios we visited seemed to foster particular kinds of practices and habits of mind. Because of the openness of the Urban Practice Studio (a renovated gymnasium), for instance, students from different classes would often wander into other students’ workspaces or class presentations. In this audio note, [author’s name] notices how a student who was not associated with the crit she was observing decided to participate in an unprompted way:
+Moreover, the spaces of the design studios we visited seemed to foster particular kinds of practices and habits of mind. Because of the openness of the Urban Practice Studio (a renovated gymnasium), for instance, students from different classes would often wander into other students’ workspaces or class presentations. In this audio note, Ceraso notices how a student who was not associated with the crit she was observing decided to participate in an unprompted way:
 
 {% include figure.html index="50" %}
 
