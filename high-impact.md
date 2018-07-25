@@ -51,7 +51,7 @@ First, we found that students wanted to take on projects that made a difference 
 
 {% include figure.html index="52" %}
 
-In general, there seems to be a belief that engaged, high impact work—with real users and audiences in mind—“ups the stakes,” as [author’s name] and Rothman agree in this interview clip.
+In general, there seems to be a belief that engaged, high impact work—with real users and audiences in mind—“ups the stakes,” as Ceraso and Rothman agree in this interview clip.
 
 {% include figure.html index="58" %}
 
@@ -59,7 +59,7 @@ This is also apparent at Georgetown’s Studio Collaborative, where student team
 
 Second, judging from what we observed, the risk that comes with high impact teaching encourages supportive and inclusive relationships. For example, faculty meet often with student teams in both formal and informal settings to check in, brainstorm, and offer ideas. Student teams meet in classrooms but also in alternate spaces at times of their choosing (e.g. late night meetings in makerspaces, dorm rooms, coffee shops, etc.). To counteract the feelings of uncertainty and risk associated with high impact practices, this type of community building work is essential. 
 
-We also discovered that it is not only the students who take on risk in design pedagogy, as described by [author’s name] in this audio “field note.”
+We also discovered that it is not only the students who take on risk in design pedagogy, as described by Pavesich in this audio “field note.”
 
 {% include figure.html index="49" %}
 	
