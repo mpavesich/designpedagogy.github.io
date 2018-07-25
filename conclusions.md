@@ -35,6 +35,7 @@ Engaging with students in process-talk but in a design-savvy, plural way must pl
 ---
 
 <strong>Model the dispositions that you hope to cultivate in students</strong>. The “8 Studio Habits of Mind,” which are published in Studio Thinking (Hetland et al.) and promoted in Harvard’s Project Zero (“Project”), offer one account of helpful dispositions. We found this version for artists–from Rankine-Landers’ “Teaching Channel” blog post–to be especially useful:
+
 8 Studio Habits of Mind
 1. Develop Craft: Learning to use tools, materials, artistic conventions; and learning to care for tools, materials, and space.
 2. Engage & Persist: Learning to embrace problems of relevance within the art world and/or of personal importance, to develop focus conducive to working and persevering at tasks.
