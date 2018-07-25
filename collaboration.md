@@ -5,7 +5,7 @@ tag: Collaborative
 d3: true
 ---
 
-Collaborative practices are foundational to design pedagogy, as well as an important link between design and postpedagogy. The distributed knowledge that results from collaboration prevents students from relying on the linear transfer of knowledge from teacher to student that postpedagogy vehemently resists. We found collaboration in design studio contexts to be implicit, an assumed structure for acting and learning. During our research, we identified three primary kinds of collaboration: 1) student-student collaboration, 2) student-faculty collaboration, and 3) student-jury/clients collaboration. 
+Collaborative practices are foundational to design pedagogy and serve as an important link between design and postpedagogy. The distributed knowledge that results from collaboration prevents students from relying on the linear transfer of knowledge from teacher to student that postpedagogy vehemently resists. We found collaboration in design studio contexts to be implicit, an assumed structure for acting and learning. During our research, we identified three primary kinds of collaboration: 1) student-student collaboration, 2) student-faculty collaboration, and 3) student-jury/clients collaboration. 
 
 As writing and rhetoric instructors, student-student collaboration was the most familiar to us. The students we observed worked in teams and often performed peer assessment.
 
