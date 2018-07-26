@@ -43,7 +43,7 @@ It is not hard to imagine what effects the experiences Martin relates might have
 
 {% include figure.html index="43" %}
 
-What interests us in Joanna’s response to Martin is her commitment to finding productive solutions to design problems (an attitude that perhaps stems from her instructor's emphasis on failure as a normal and acceptable part of the process). Implicit in her faith in the system of design studio pedagogy seems to be the idea that the expertise of jurors can always be valuable, even if students, preferably with the aid of faculty members, filter feelings of failure, or frame failure as an important step in a new direction.
+What interests us in Joanna’s response to Martin is her commitment to finding productive solutions to design problems (a response that perhaps stems from her instructor's attitude about failure as a normal and acceptable part of the process). Implicit in her faith in the system of design studio pedagogy seems to be the idea that the expertise of jurors can always be valuable, even if students, preferably with the aid of faculty members, filter feelings of failure, or frame failure as an important step in a new direction.
 
 These students raise serious concerns, which must be addressed in the crafting of learning spaces—especially ones that embrace risk. For some students educational spaces are already riskier than they are for their peers, and any teaching practice, no matter how well-intentioned, has radically failed if it reinforces disenfranchisement or marginalization. That said, based on our experiences, studio learning environments coordinate the kinds of work and relationships that help foster inclusivity rather than prevent it—in two ways, specifically. 
 
