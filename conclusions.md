@@ -30,7 +30,7 @@ The next two photos are of Marlo Ransdell’s slides from her 2016 presentation 
 
 {% include figure.html index="86" %}
 
-Engaging with students in process-talk but in a design-savvy, plural way must play a salient role in design-oriented pedagogy. Adapting or revising “designified” process models similar to the ones featured above will provide students with some initial structure while also giving them the freedom to figure out ways of working and collaborating throughout the development of their projects.
+Engaging with students in process-talk but in a design-savvy, plural way must play a salient role in design-oriented pedagogy. Adapting or revising “designified” process models similar to the ones featured above will provide students with some initial structure while also giving them the freedom to figure out ways of working and collaborating throughout the development of their projects. Such models hit the right balance between determinism and chaos, depicting the form of complexity we championed in the Introduction.
 
 ---
 
