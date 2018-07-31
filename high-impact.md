@@ -15,7 +15,7 @@ The educational design methods we observed in studio environments uniformly aime
 {% include figure.html index="36" %}
 
 
-Additionally, students encounter high impact learning practices in studio work by constantly juggling knowledge at different levels of scale, from the conceptual to the detailed nitty-gritty. This toggling generates impact because, as Casey Boyle puts it in his exploration of glitch, “when we are positioned to pay attention to in-betweens, especially the mediation work of interfaces and infrastructures, we often come to better understand how those in-betweens help configure our personal, academic, professional, and civic practices” (13). Design studio pedagogy, especially through high impact learning experiences, positions students in “in-between” situations. Mechanical engineering professor Neil Rothman describes a number of these in-between situations in the following interview clips:
+Additionally, students encounter high impact learning practices in studio work by constantly juggling knowledge at different levels of scale, from the conceptual to the detailed nitty-gritty. This toggling generates impact because, as Casey Boyle writes, “when we are positioned to pay attention to in-betweens, especially the mediation work of interfaces and infrastructures, we often come to better understand how those in-betweens help configure our personal, academic, professional, and civic practices” (13). Design studio pedagogy, especially through high impact learning experiences, positions students in “in-between” situations. Mechanical engineering professor Neil Rothman describes a number of these in-between situations in the following interview clips:
 
 *In-between campus and industry*
 
