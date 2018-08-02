@@ -111,6 +111,13 @@ header a:link {
   color: rgba(255,255,255,.9);
 }
 
+.authors {
+    color: white;
+    color: rgba(255,255,255,.9);
+    font-size: .75rem;
+    margin: 2rem 0 0;
+}
+
 #global-navigation {
     margin-top: 4rem;
 }
@@ -312,7 +319,7 @@ footer {
       height: auto;
   }
 
-  .home h1,
+  .home .meta,
   .home nav {
       width:48%;
       margin:0 !important;
