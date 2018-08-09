@@ -11,11 +11,11 @@ As writing and rhetoric instructors, student-student collaboration was the most 
 
 {% include figure.html index="17" %}
 
-However, this kind of peer work went well beyond a single project or activity. Frequently, teams of students work together on multiple projects throughout the semester. In some cases, student collaborations continue from one semester to the next. For example, as Martin, a student from the LEED Lab, explained to us in this interview clip, a student team might continue to work on the same or another student team’s project from a previous semester. The coordination of learning, in this instance, extends across space and time.  
+However, this kind of peer work went well beyond a single project or activity. Frequently, teams of students work together on multiple projects throughout the semester. In some cases, student collaborations continue from one semester to the next. For example, as Martin, a student from the LEEDlab, explained to us in this interview clip, a student team might continue to work on the same or another student team’s project from a previous semester. The coordination of learning, in this instance, extends across space and time.  
 
 {% include figure.html index="47" %}
 
-In terms of student-faculty collaboration, the classes we attended presented a rigorous model of distributed authorship. Sometimes, for instance, instructors worked with students on particular aspects of their projects. While teachers continue to provide guidance and mentorship in student-faculty collaboration, they also contribute to projects in ways that may not be recognizable to most humanities faculty. The fact that professors are willing to step into the role of collaborator changes their relationship with students. As LEED Lab student Joanna describes in this clip, students feel that there is a “mutual respect” that is carried throughout the semester, which changes the classroom dynamics. 
+In terms of student-faculty collaboration, the classes we attended presented a rigorous model of distributed authorship. Sometimes, for instance, instructors worked with students on particular aspects of their projects. While teachers continue to provide guidance and mentorship in student-faculty collaboration, they also contribute to projects in ways that may not be recognizable to most humanities faculty. The fact that professors are willing to step into the role of collaborator changes their relationship with students. As LEEDlab student Joanna describes in this clip, students feel that there is a “mutual respect” that is carried throughout the semester, which changes the classroom dynamics. 
 
 {% include figure.html index="44" %}
 
