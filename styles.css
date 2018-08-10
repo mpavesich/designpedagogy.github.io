@@ -299,7 +299,6 @@ footer {
   }
 
   nav {
-      margin-top: 4rem;
   }
     
   main {
@@ -351,5 +350,16 @@ footer {
       display:none;
   }
   
+}
+
+@media screen and (min-height: 600px) {
+
+    #global-navigation {
+        position:fixed;
+    }
+    
+    .home #global-navigation {
+        position: inherit;
+    }
 }
 
