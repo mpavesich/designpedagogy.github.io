@@ -118,6 +118,10 @@ header a:link {
     margin: 2rem 0 0;
 }
 
+.home .authors {
+    font-size: 1.125rem;
+}
+
 #global-navigation {
     margin-top: 4rem;
 }
