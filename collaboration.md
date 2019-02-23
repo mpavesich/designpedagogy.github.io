@@ -41,7 +41,7 @@ In addition, some clients, like the person shown in the wheelchair in the pictur
 
 Without this client's input about his needs and desires, as well as his physical interactions with the prototypes, the student engineering team at UMBC would not have been able to design suitable equipment that would allow their client to thrive as a wheelchair lacrosse player. 
 
-We want to acknowledge that these complex forms of collaboration are challenging, and they are sometimes met with resistance. For example, they require logistics that can be time consuming. Students also might worry about who their partners are and whether or not they will get stuck with an unfair amount of the work. More broadly, as UMBC mechanical engineering professor Neil Rothman stated in our interview, students are not used to the kind of freedom and responsibility associated with “active learning.”
+We want to acknowledge that these complex forms of collaboration are challenging and they are sometimes met with resistance. For example, they require logistics that can be time consuming. Students also might worry about who their partners are and whether or not they will get stuck with an unfair amount of the work. More broadly, as UMBC mechanical engineering professor Neil Rothman stated in our interview, students are not used to the kind of freedom and responsibility associated with “active learning.”
 
 {% include figure.html index="56" %}
 
