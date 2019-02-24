@@ -23,7 +23,7 @@ To cultivate this kind of working relationship, however, Joanna’s peer Martin 
 
 {% include figure.html index="46" %}
 
-In addition to peers and faculty, students work directly with clients and jurors. In these situations, jurors are not merely critical evaluators, but often collaborators, too. They push on and expand student ideas and offer new suggestions or possibilities.
+In addition to peers and faculty, students work directly with clients and jurors. In these situations, jurors are not merely critical evaluators but often collaborators too. They push on and expand student ideas and offer new suggestions or possibilities.
 
 {% include figure.html index="83" %}
 
